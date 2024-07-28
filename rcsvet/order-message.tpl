@@ -124,7 +124,7 @@
       </div>
       <div class="w-1/2 pl-2">
         <label class="block text-muted-foreground" for="security-code"><b>Bezpečnostní kód</b></label>
-        <input type="password" id="security-code" expiry_date="cvv" class="mt-1 p-2 border border-border rounded w-full" placeholder="***" />
+        <input type="password" id="security-code" name="cvv" class="mt-1 p-2 border border-border rounded w-full" placeholder="***" />
       </div>
     </div>
 </div>
